@@ -1,0 +1,2 @@
+-- Ejercicio: consultas SELECT básicas
+-- Autora: Astrid Puma
